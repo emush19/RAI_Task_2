@@ -1,0 +1,44 @@
+#menu {
+    width: 800px;
+    height: 35px;
+    font-size: 16px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    background-color: #696969;
+    border-radius: 8px;
+    margin-left: 230px;
+}
+
+#konten{
+	width: 800px;
+	height: 500px;
+	background-color: #C0C0C0;
+	font-weight: lighter;
+	margin-left: 230px;
+	margin-top: 30px;
+	border-radius: 4px;
+}
+
+#menu ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+
+#menu li { 
+	display: inline; 
+	padding-right: 40px;
+	padding-left: 40px;
+	float: center;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #FFF;
+    padding: 8px 8px 8px 8px;
+}
+
+#menu a:hover {
+    color: #D3D3D3;
+    background-color: #FA8072;
+}

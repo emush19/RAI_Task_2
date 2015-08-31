@@ -1,0 +1,18 @@
+
+.titleContainer{
+    border: 1px solid #FFF;
+    background-color: #00BFFF;
+    color:#FFF;
+    font-weight: bold;
+    width: 20%;
+    margin-bottom: 2px;
+}
+
+.inputContainer{
+    border: 1px solid #FFF;
+    margin-bottom: 10px; 
+    color:#FFF;
+    font-weight: lighter;
+    width: 20%;
+}
+
